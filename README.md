@@ -25,7 +25,6 @@
 <br>
 <div align="center"> 
 <a href="https://www.linkedin.com/in/joaovictorps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-<a href = "mailto:j.victorbahia@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  <hr> 
  
