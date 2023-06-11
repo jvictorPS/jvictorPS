@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Iai, beleza? Sou o João Victor, aspirante a desenvolvedor Front-End 👋</h2>
+<h2>Iai, beleza? Sou o João Victor, desenvolvedor Front-End 👋</h2>
 </div>
 
 <div align="center" style="display: inline_block">
